@@ -23,3 +23,8 @@ To reduce data redundancy, in one table you can include a foreign key which poin
 
 ### What is NoSQL denormalization? 
 ### When would you use a relational database instead of a non-relational database? 
+
+RESOURCES:
+https://www.upwork.com/hiring/data/sql-vs-nosql-databases-whats-the-difference/
+https://www.sitepoint.com/sql-vs-nosql-differences/
+https://www.sitepoint.com/sql-vs-nosql-choose/
