@@ -18,5 +18,8 @@ db.article.insert(
   date: new Date(),
 );
 ```
+### What is SQL Normalization? 
+To reduce data redundancy, in one table you can include a foreign key which points to another type of value. For example, let's assume we want to store more information about an 'author' such as date of birth, gender, and age. It wouldn't make sense to include all of this data on each blog post. It deserves to have it's own table. Then in the blog post table you can simply 'point' to the author with a foreign key, which references the author in it's own table. This optimazation, is referred to as SQL normalization. 
 
+### What is NoSQL denormalization? 
 ### When would you use a relational database instead of a non-relational database? 
