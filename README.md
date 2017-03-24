@@ -28,3 +28,6 @@ RESOURCES:
 https://www.upwork.com/hiring/data/sql-vs-nosql-databases-whats-the-difference/
 https://www.sitepoint.com/sql-vs-nosql-differences/
 https://www.sitepoint.com/sql-vs-nosql-choose/
+
+# Other
+### How does an environment variable differ from a shell variable? 
